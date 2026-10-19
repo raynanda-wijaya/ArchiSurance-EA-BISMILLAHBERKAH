@@ -8,7 +8,7 @@
       id="id-dbc5d0f84b8e4aedb765f61c84c08167">
     <bounds
         x="380"
-        y="347"
+        y="348"
         width="700"
         height="350"/>
     <children
@@ -20,6 +20,10 @@
           id="id-a7dd6f17501b4dbd95bd27f360c51294"
           source="id-26d4f8541048413897dfb9c3d6ff4f7a"
           target="id-746e38849a654b44945ba1955b5c8e5d">
+        <bendpoints
+            startX="221"
+            startY="18"
+            endY="-73"/>
         <archimateRelationship
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-3333438dc4734b04a81f2b8c0bdcf66c.xml#id-3333438dc4734b04a81f2b8c0bdcf66c"/>
